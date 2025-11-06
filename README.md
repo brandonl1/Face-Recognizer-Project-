@@ -2,9 +2,7 @@
 
 This repository contains a modular implementation of a simple face
 recognition tool based on the [Real Python tutorial on face
-recognition]. The goal
-of this project is to provide a clean, maintainable code base that you can
-customize for your own datasets and extend for new features. 
+recognition]. 
 
 ## Project Structure
 
@@ -132,11 +130,7 @@ This repository includes three supplementary README files:
 | **README_train.md**   | Detailed guidance on preparing your environment and training the model |
 | **README_validate.md** | Best practices for validating your trained model |
 | **README_test.md**     | Instructions for testing the model on new images |
-
-You can use these files as templates for branch-specific documentation in
-your own Git branches. For example, you might maintain a `train` branch
-dedicated to improving the training process. In that branch, ensure the
-root `README.md` points to `README_train.md` for accurate instructions.
+\
 
 ## License
 
